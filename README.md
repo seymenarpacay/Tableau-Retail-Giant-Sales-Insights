@@ -3,6 +3,8 @@ This study analyzes the sales profitability and on-time delivery success of the 
 
 As seen in this dataset, each row represents product records ordered by the customer and completed the shipping process. The columns represent the characteristics of these records, such as location (country, city, state, postal code, region), product category, order and delivery dates, and product category.
 
+## 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/seymen.can.arpa.ay/viz/SalesProfitabilityAnalysis_17725739882270/SalesProfitabilityAnalysis#1)
+
 A) Sales Profitability Analysis
 
 1- Time Series for Sales and Profit: I visualized total sales and profit by month. It can be seen that sales and profit generally follow a proportional pattern. In this respect, the company has a stable structure. The fact that profit sometimes appears larger than sales in the visual may be confusing; this is due to the fact that the same graph has two different y-axes.
